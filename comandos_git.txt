@@ -15,3 +15,5 @@ git log -> mostra todo o histórico de commit
 7. git commit -m “mensagem”
 8. git status
 9. volta para o passo 3
+
+teste1
