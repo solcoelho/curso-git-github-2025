@@ -10,6 +10,7 @@ Confira tudo o oque temos no nosso YouTube. É grátis! Segue o link:
 
 [Curso Git 2025](http://youtube.com/@teomewhy)
 
+Este curso é muito legal
 
 ## Fluxo de trabalho GitHub <> Local (projeto próprio ou da sua empresa)
 
